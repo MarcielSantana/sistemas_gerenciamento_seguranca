@@ -30,8 +30,6 @@ Este é um projeto desenvolvido como parte do curso de Programação, com o obje
 
 ## 🛠️ Tecnologias Utilizadas
 
-> (Atualize aqui de acordo com as tecnologias que você está usando. Exemplo abaixo:)
-
 - HTML, CSS e JavaScript
 - Python com Flask
 - SQLite (ou MySQL)
